@@ -1,7 +1,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="galvishumanesocapp" version="1.0.0">
   <name>Galveston Island Humane Society</name>
   <description>Contact and udpates for the Galveston Island Humane Society.</description>
-  <author href="http://digiworldmedia.com/" email="4. shawn@digiworldmedia.com">Digiworld Media</author>
+  <author href="http://digiworldmedia.com/" email="shawn@digiworldmedia.com">Digiworld Media</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
   <preference name="orientation" value="default"/>
